@@ -60,3 +60,23 @@ $(document).ready(function () {
 
     
 });
+
+// JavaScript para formulario de Contacto
+function able() {
+    $(document).ready(function () {
+        let n = document.getElementById("nombre").value;
+        let c = document.getElementById("correo").value;
+        let m = document.getElementById("mensaje").value;
+
+        if (n == "" || c == "" || m == ""){
+            document.getElementById("enviar").disabled = true;
+
+        } else {
+            document.getElementById("enviar").disabled = false;
+            console.log(n);
+            console.log(c);
+            console.log(m);
+        }
+    });
+
+}
