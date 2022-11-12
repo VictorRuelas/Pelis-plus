@@ -16,4 +16,4 @@ Sitio almacenado en Netlify con dominio de Namecheap.
 
 ### Disclaimer:
 
-Este proyecto fue desarrollado con fines educativos y no poseo los derechos sobre el material utilizado como póster de cada película, tanto el desarrollo como la implementación y despliegue del sitio fue realizado sin interés de lucro, en ningún momento es de mi interés hacerlo.
+Este proyecto fue desarrollado con fines educativos y no poseo los derechos sobre el material utilizado como póster de cada película, tanto el desarrollo como la implementación y despliegue del sitio fueron realizados sin interés de lucro, en ningún momento es de mi interés hacerlo.
