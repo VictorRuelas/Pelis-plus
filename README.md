@@ -13,7 +13,7 @@ Pronto te invitaré a ver mis progresos en este mundo del desarrollo web. Que te
 
 Proyecto desarrollado por Victor Ruelas 2022  
 Desarrollado con: HTML, CSS y JS.  
-Sitio almacenado en Netlify con dominio de Namecheap.  
+Se desplegó el sitio en Netlify con dominio de Namecheap utilizando credenciales y beneficios de estudiante, actualmente no se encuentra visible en linea.  
 
 
 ### Disclaimer:
